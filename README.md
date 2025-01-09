@@ -85,7 +85,7 @@ This Project is completed in 2 Parts:
 
 ![5_Bubble_Plot](https://github.com/user-attachments/assets/bd8fede4-0161-40ef-bd2f-3693b9d937a5)
 
-**_Insight:_** from this plot, it is evident that seasonality has not affected on the overall sales. However, there is a drastic raise in sales in the month of April.
+**Insight:** from this plot, it is evident that seasonality has not affected on the overall sales. However, there is a drastic raise in sales in the month of April.
 
 1.6: Using the functionality of **_Matplotlib_** to develop a **_scatter plot_** to identify the correlation between average vehicle price relate to the sales volume during recessions.
 
