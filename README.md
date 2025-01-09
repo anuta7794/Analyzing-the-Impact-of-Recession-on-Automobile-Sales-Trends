@@ -21,6 +21,7 @@ In this project I will create visualizations using **_Matplotlib_**, **_Seaborn_
 The data used in this project has been artifically created by IBM Skills Network for the purpose of this assignment only. No real data has been used.
 
 The dataset includes the following variables:
+
 1.	Date: The date of the observation.
 2.	Recession: A binary variable indicating recession perion; 1 means it was recession, 0 means it was normal.
 3.	Automobile_Sales: The number of vehicles sold during the period.
@@ -36,6 +37,7 @@ The dataset includes the following variables:
 13.	Year: Year of the observation extracted from Date.
 
 Recession Periods:
+
 recession period 1 - year 1980
 
 recession period 2 - year 1981 to 1982
@@ -46,17 +48,16 @@ recession period 4 - year 2000 to 2001
 
 recession period 5 - year end 2007 to mid 2009
 
-recession period 6 - year 2020 -Feb to April (Covid-19 Impact)
+recession period 6 - year 2020 -Feb to April (Covid-19 Impact).
 
-The data used in this lab has been artifically created for the purpose of this assignment only. No real data has been used.
-
-Steps:
+### Steps:
 
 This Project is completed in 2 Parts:
+
 •	Part 1: Creating Visualizations using Matplotlib and Seaborn 
 •	Part 2: Creating Dashboard using Plotly and Dash
 
-Part 1: Creating Visualizations using Matplotlib and Seaborn 
+### _Part 1: Creating Visualizations using Matplotlib and Seaborn_ 
 
 1.1: Developing a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year.
 Insight:
