@@ -1,4 +1,4 @@
-# Analyzing-the-Impact-of-Recession-on-Automobile-Sales-Trends
+# Analyzing the Impact of Recession on Automobile Sales Trends
 
 ### Overview:
 
@@ -14,9 +14,11 @@ This Project is a part of the "Data Visualization with Python" IBM course and ai
 
 I have been hired by XYZAutomotives as a data scientist. My first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. I will provide a number of charts/plots to visualize the data and make it easy for the directors to understand your analysis.
 
-In this project I will create visualizations using Matplotlib, Seaborn, and Pandas.
+In this project I will create visualizations using **_Matplotlib_**, **_Seaborn_**, and **_Pandas_**.
 
-Dataset:
+### Dataset:
+
+The data used in this project has been artifically created by IBM Skills Network for the purpose of this assignment only. No real data has been used.
 
 The dataset includes the following variables:
 1.	Date: The date of the observation.
